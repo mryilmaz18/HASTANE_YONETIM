@@ -28,4 +28,4 @@ Sistem giriş ekranı ile sizi karşılamaktadır. Giriş ekranında 3 giriş ya
 - Sekreterimiz doktorlarımıza ait randevu listesine ulaşıp randevu silebilir. 
 - Sekreterimiz duyuru listesine ulaşabilir.
 - Yeni doktor, sekreter, branş kaydı gerçekleştirilir ve doktor bilgileri güncellenebilir.
-- Sekreterimiz Giriş Ekranına dönüş sağlayabilir ve uygulama içerisinden çıkış yapabilir.
+- Sekreterimiz Giriş Ekranına dönüş sağlayabilir ve uygulama içerisinden çıkış yapabilir. 
