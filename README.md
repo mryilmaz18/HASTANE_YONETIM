@@ -1,6 +1,6 @@
 # HASTANE_YONETIM
 Sistem giriş ekranı ile sizi karşılamaktadır. Giriş ekranında 3 giriş yapma seçeneği mevcuttur.
--	DOKTOR GİRİŞİ:
+#DOKTOR GİRİŞİ:
 -Öncelikle bizi giriş paneli karşılamaktadır ve yanlış giriş anında sisteme doktorumuz giriş yapamaz.
 -Sisteme giriş yapıldığı zaman giriş yapan doktorumuza ait TC Kimlik Numarası ve Ad Soyad bilgileri ekranımızda gözükmektedir.
 -Doktorumuza ait randevu bilgileri mevcuttur. Durum değişkenine göre hastalar tarafından alınmış ve boş randevular gözükmektedir.
