@@ -1,4 +1,4 @@
-# HASTANE_YONETIM
+# HASTANE_YONETIM_SISTEMI
 Sistem giriş ekranı ile sizi karşılamaktadır. Giriş ekranında 3 giriş yapma seçeneği mevcuttur.
 ## DOKTOR GİRİŞİ:
 - Öncelikle bizi giriş paneli karşılamaktadır ve yanlış giriş anında sisteme doktorumuz giriş yapamaz.
